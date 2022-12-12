@@ -1,16 +1,14 @@
-![Imagen decorativa de tu perfil]()
+![Imagen decorativa de tu perfil](https://github.com/JuanCarlosAlo/JuanCarlosAlo/blob/main/images/Untitled-2.jpg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Juan Carlos Alonso Merlo</h1>
+<h3 align="center">About Me</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+ESTOY ESTUDIANDO: HTML, CSS y JAVA SCRIPT
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
-
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
