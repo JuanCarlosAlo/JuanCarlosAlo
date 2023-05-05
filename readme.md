@@ -52,8 +52,7 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
   </a>
 
 <a href="https://react.dev/">
-      <img src="  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
 
 <a href="https://react.dev/">
