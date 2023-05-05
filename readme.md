@@ -60,5 +60,5 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
 <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="Node js">
   </a>
