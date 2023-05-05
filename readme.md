@@ -48,16 +48,16 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
  <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
   </a>
 
 <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
   </a>
 
 <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
   </a>
 <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" rel="noreferrer" width="40" alt="Node js">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="Node js">
   </a>
