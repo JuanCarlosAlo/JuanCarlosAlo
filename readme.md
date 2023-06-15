@@ -3,11 +3,9 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Juan Carlos Alonso Merlo</h1>
 <h3 align="center">About Me</h3>
-<p align= "left">Soy Juan Carlos Alonso Merlo, graduado en Diseño integral de la imagen y desarrollador web front-end. </p>
+<p align= "left">Soy Juan Carlos Alonso Merlo, graduado en Diseño integral de la imagen y desarrollador web front-end con conocimientos en HTML, CSS, JS, GIT, REACT, MONGODB Y NODE. </p>
 
-ESTOY ESTUDIANDO: HTML, CSS y JAVA SCRIPT
-
-TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+<!-- TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM) -->
 
 PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
 
@@ -48,16 +46,16 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
  <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
+      <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
 
 <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
+      <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
 
-<a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="BEM metodology">
+<a href="https://firebase.google.com/">
+      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
-<a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" rel="noreferrer" width="80" alt="Node js">
+<a href="https://nodejs.org/en">
+      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" target="_blank" rel="noreferrer" width="40" alt="Node js">
   </a>
