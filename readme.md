@@ -59,3 +59,7 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
 <a href="https://nodejs.org/en">
       <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" target="_blank" rel="noreferrer" width="40" alt="Node js">
   </a>
+
+<a href="https://www.typescriptlang.org/">
+      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Node js">
+  </a>
