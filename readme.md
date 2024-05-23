@@ -64,6 +64,6 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
       <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Typescript">
   </a>
 <a href="https://nextjs.org/">
-      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Next js">
+      <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704.png" target="_blank" rel="noreferrer" width="40" alt="Next js">
   </a>
   
