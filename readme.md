@@ -3,7 +3,7 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Juan Carlos Alonso Merlo</h1>
 <h3 align="center">About Me</h3>
-<p align= "left">Soy Juan Carlos Alonso Merlo, graduado en Diseño integral de la imagen y desarrollador web front-end con conocimientos en HTML, CSS, JS, GIT, REACT, MONGODB Y NODE. </p>
+<p align= "left">Soy Juan Carlos Alonso Merlo, graduado en Diseño integral de la imagen y desarrollador web front-end con conocimientos en HTML, CSS, JS, GIT, REACT, MONGODB, NODE, Typescript y Next. </p>
 
 <!-- TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM) -->
 
