@@ -61,5 +61,9 @@ PUEDES CONTACTARME EN **jc.alonsome@gmail.com**
   </a>
 
 <a href="https://www.typescriptlang.org/">
-      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Node js">
+      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Typescript">
   </a>
+<a href="https://nextjs.org/">
+      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" target="_blank" rel="noreferrer" width="40" alt="Next js">
+  </a>
+  
